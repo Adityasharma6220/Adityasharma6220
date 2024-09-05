@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Adityasharma6220/Adityasharma6220/blob/main/Green%20Futuristic%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
