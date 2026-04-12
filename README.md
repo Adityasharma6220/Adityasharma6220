@@ -7,7 +7,8 @@
 
 ---
 
-### 💡 About Me
+<img align="right" alt="coding" width="380" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 Currently working on **Scalable Backend Systems using Node.js**
 - 🌱 Learning & building with **React.js, Next.js & Advanced Backend Architectures**
