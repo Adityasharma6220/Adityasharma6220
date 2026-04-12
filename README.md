@@ -18,7 +18,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - 🌱 Learning **React.js, Next.js & System Design**
 - 💬 Ask me about **MERN Stack, APIs, Backend Architecture**
 - 📫 Reach me at: **adityasharma26806@gmail.com**
-- 📄 <a href="https://drive.google.com/file/d/1Ob9muhjc1jNLYpXCi_hJpQu7UGCDrn9I/view?usp=drive_link">View Resume</a>
+- 📄 <a href="[https://drive.google.com/file/d/1Ob9muhjc1jNLYpXCi_hJpQu7UGCDrn9I/view?usp=drive_link](https://drive.google.com/file/d/1OHkN7qjeHr9Gv61EFT7ieBkiDhMHsnNs/view?usp=sharing)">View Resume</a>
 
 ---
 
